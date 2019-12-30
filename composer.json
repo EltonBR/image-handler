@@ -1,0 +1,16 @@
+{
+    "name": "ejss/image-handler",
+    "description": "Library to edit images",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Elton John",
+            "email": "eltonej4598@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {},
+    "autoload": {
+        "files":["autoload.php"]
+    }
+}
