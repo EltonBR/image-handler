@@ -12,7 +12,7 @@ Methods:
 ```PHP
 $instance = new ImageHandler($imagePath);
 ```
-Contructor, $imagePath is image path to edit
+Constructor, $imagePath is image path to edit
 
 ```PHP
 $instance->resize($newWidth, $newHeight, $bestFit = false);
