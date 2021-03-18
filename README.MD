@@ -32,7 +32,7 @@ $instance->setPngCompression($quality);
 ```PHP
 $instance->save($path, $destinationFormat = false)
 ```
-save image to $path, overrride original save format setting $destination to preferred file format. Suported formats is png, jpg, git, bmp
+save image to $path, overrride original save format setting $destination to preferred file format. Suported formats is png, jpg, gif, bmp
 
 Exceptions:
 
